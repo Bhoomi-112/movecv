@@ -1,4 +1,4 @@
-# movecv: NFT Portfolio & CV Verifier (Aptos Move)
+#MoveCV: NFT Portfolio & CV Verifier (Aptos Move)
 
 This project is a simple Move smart contract for the Aptos blockchain that allows users to register their NFT portfolio and enables verifiers to verify a user's CV. It is designed as a minimal example for learning and prototyping.
 
