@@ -50,5 +50,3 @@ NftCvVerifier::register_portfolio(&account, vector[1, 2, 3]);
 NftCvVerifier::verify_cv(&verifier, @user_address);
 ```
 
-## License
-MIT
