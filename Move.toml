@@ -1,0 +1,15 @@
+[package]
+name = "movecv"
+version = "1.0.0"
+authors = []
+
+[addresses]
+movecv = "0x43a6e4c3b8fc5d9c0ac30fd259e40521b6149cb4779421ab1451c4d3e3c72e66"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
